@@ -3,8 +3,8 @@ Simple console application that connects to your account and uses it to react to
 
 ## Prerequisites
 - Twitch account with at least 2FA
-- an app registered inside the Twitch developer portal and it's details
-- access- and refresh-token following the [twitch api documentation](https://dev.twitch.tv/docs/authentication/)
+- an app registered inside the [Twitch developer portal](https://dev.twitch.tv/console) and its details
+- access- and refresh-token following the [Twitch api documentation](https://dev.twitch.tv/docs/authentication/)
 - creating launchSettings.json and add environment variables
 
 ## What is does?
